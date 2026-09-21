@@ -1,1 +1,11 @@
-{}
+{
+  "id": "2026-09-21-firestore",
+  "level": "outage",
+  "title": { "en": "It's not you", "sv": "Det är inte du" },
+  "message": {
+    "en": "Google's database service is having trouble, so pages may not load. Your games are safe.",
+    "sv": "Googles databastjänst har problem, så sidor kan vägra ladda. Dina spel är säkra."
+  },
+  "link": "https://discord.gg/...",
+  "until": "2026-09-22T00:00:00Z"
+}
